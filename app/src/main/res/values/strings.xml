@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StoryApplication</string>
+    <string name="app_detail_name">Detail Story</string>
+    <string name="app_add_name">Add Story</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ayo, ciptakan dan temukan cerita yang menginspirasi dunia!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk bersenang-senang?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Temukan dan bagikan cerita-cerita inspiratif!.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error_password_too_short">Password tidak boleh kurang dari 8 karakter!</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="tvName">Nama Creator</string>
+    <string name="tvDescription">Deskripsi story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="add">Add Story</string>
+    <string name="description">deskripsi add story</string>
+    <string name="descriptionstory">Deskripsi Story</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_preview_login">Image Preview Login</string>
+    <string name="image_preview_upload">Image Preview Upload</string>
+</resources>
